@@ -1,0 +1,1 @@
+<h1>''group middleware example''</h1>
